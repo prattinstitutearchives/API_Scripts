@@ -5,6 +5,7 @@ output/
 secrets.yml
 scripts/Create_Agents.ipynb
 scripts/Update_Digital_Object_Extents.ipynb
+scripts/Misc_scripts.ipynb
 
 # GitHub Generated Ignores: -------------------------------------------
 
